@@ -1,0 +1,1 @@
+This file contains some resolutions which are from Leetcode implemented by Python.
